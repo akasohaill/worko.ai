@@ -16,7 +16,6 @@ This project is a Node.js backend API built with MVC architecture. It handles CR
 - [Environment Variables](#environment-variables)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
