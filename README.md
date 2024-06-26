@@ -220,7 +220,7 @@ describe('User Service', () => {
 3. Create a `.env` file in the root directory and add the following:
     ```
     PORT=3000
-    DB_URI=mongodb://localhost:27017/your-db
+    DB_URI=Mongo_url
     JWT_SECRET=your-jwt-secret
     ```
 
